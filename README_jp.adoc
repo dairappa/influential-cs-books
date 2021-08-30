@@ -20,7 +20,7 @@ StackOverflowは伽藍で、Githubはバザールだから😉
 
 だから、リストをここに保存した😊
 
-## Influential Books List
+//## Influential Books List
 
 == 影響を与えた書籍リスト
 
