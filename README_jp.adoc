@@ -2,7 +2,6 @@
 = プログラマに最も影響を与えた書籍
 
 //These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
-
 この[スタックオーバーフローのスレッド](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)には、プログラマーに最も影響を与えたと思われる書籍が挙げられている。
 
 
@@ -17,28 +16,28 @@ StackOverflowは伽藍で、Githubはバザールだから😉
 
 
 //So, the list is preserved here :)
-
 だから、リストをここに保存した😊
 
 //## Influential Books List
-
 == 影響を与えた書籍リスト
 
-1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
-2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
-3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
-4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
-5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
-6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
-7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
-8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
-9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) by Donald Knuth
-10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
-11. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter
-12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
-13. [Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
-14. [More Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
-15. [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
+//1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
+1. [コードコンプリート 第2版](https://www.amazon.co.jp/dp/B01E5DYK1C) by Steve McConnell
+//2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
+2. [達人プログラマー 第2版](https://amazon.co.jp/dp/B08T9BXSVD/) by Andrew Hunt and David Thomas
+3. [計算機プログラムの構造と解釈 a.k.a SICP](https://github.com/hiroshi-manabe/sicp-pdf/blob/japanese/jsicp.pdf) by Sussman and Abelson (非公式日本語訳、無料電子書籍)
+4. [プログラミング言語C a.k.a K&R](https://www.amazon.co.jp/dp/4320026926) by Brian Kernighan and Dennis Ritchie
+5. [アルゴリズムイントロダクション 第3版](https://www.amazon.co.jp/dp/B078WPYHGN/) by Cormen, Leiserson, Rivest & Stein
+6. [オブジェクト指向における再利用のためのデザインパターン](https://www.amazon.co.jp/dp/4797311126/) by the Gang of Four
+7. [リファクタリング(第2版): 既存のコードを安全に改善する](https://www.amazon.co.jp/dp/4274224546) by Martin Fowler
+8. [人月の神話](https://www.amazon.co.jp/dp/B0998ZTVTD/) by Fred Brooks
+9. The Art of Computer Programming [Volume 1](https://www.amazon.co.jp/dp/4048694022), [Volume 2](https://www.amazon.co.jp/dp/4048694162), [Volume 3](https://www.amazon.co.jp/dp/4048694316) by Donald Knuth
+10. [コンパイラ ― 原理・技法・ツール](https://www.amazon.co.jp/dp/478191229X/) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
+11. [ゲーデル、エッシャー、バッハ](https://www.amazon.co.jp/dp/B079S4STTV) by Douglas Hofstadter
+12. [Clean Code　アジャイルソフトウェア達人の技](https://www.amazon.co.jp/dp/B078HYWY5X) by Robert C. Martin
+13. [Effective C++ 第3版 プログラムとデザインを改良するための55項目](https://www.amazon.co.jp/dp/4894714515) by Scott Meyers
+14. [More Effective C++ プログラムとデザインを改良するための新35項目](https://www.amazon.co.jp/dp/4621066064) by Scott Meyers
+15. [CODE: コードから見たコンピュータのからく](https://www.amazon.co.jp/dp/B079S4STTV) by Charles Petzold
 16. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) by Jon Bentley
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
